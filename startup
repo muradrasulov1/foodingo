@@ -1,0 +1,2 @@
+AI_MODEL = "gpt-4"  # Perfect for conversation
+AI_TEMPERATURE = 0.7  # Balanced creativity/consistency
